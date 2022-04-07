@@ -4,6 +4,9 @@
 [![Download bản mới nhất](https://i.imgur.com/nE62G4J.png)](https://github.com/babeoban/Canhdi-PVP-rsp/releases)
 ### Youtube: https://youtube.com/c/canhvjp
 
+## Update
+RSP v1.7 (chưa hoàn thiện)
+
 ## Thông tin về project
 - Đây là resource pack dùng để PVP
 
