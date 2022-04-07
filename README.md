@@ -13,3 +13,4 @@
 
 ## Liên hệ
 - Discord: https://discord.gg/5FDSRCYcyq
+- Đóng góp / Báo lỗi: https://github.com/babeoban/Canhdi-PVP-rsp/issues/new
