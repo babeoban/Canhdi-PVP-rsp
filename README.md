@@ -8,7 +8,7 @@
 - Đây là resource pack dùng để PVP
 
 ## Sử dụng
-- Drop tệp vào %appdata%\.minecraft\resourcepacks
+- Drop tệp vào `%appdata%\.minecraft\resourcepacks`
 - Vào minecraft -> options -> resource pack -> active canhdi resource pack
 
 ## Liên hệ
