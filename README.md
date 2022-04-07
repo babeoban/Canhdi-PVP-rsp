@@ -1,1 +1,1 @@
-# Canhdi-PVP-rsp
+# Resource pack PVP Canhdi by canhvjp
