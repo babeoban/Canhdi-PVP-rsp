@@ -5,7 +5,7 @@
 ### Youtube: https://youtube.com/c/canhvjp
 
 ## Update
-RSP v2.0 (chưa hoàn thiện)
+RSP v2.1.1 (chưa hoàn thiện)
 
 ## Thông tin về project
 - Đây là resource pack dùng để PVP
