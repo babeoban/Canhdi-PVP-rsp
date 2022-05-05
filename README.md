@@ -6,7 +6,7 @@ Khuyến nghị: Dùng với optifine hoặc với pvp client!
 ### Youtube: https://youtube.com/c/canhvjp
 
 ## Update
-RSP v2.1.1 (chưa hoàn thiện)
+RSP v3.2.2 (đã hoàn thiện)
 
 ## Thông tin về project
 - Đây là resource pack dùng để PVP
