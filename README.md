@@ -3,10 +3,10 @@
 ### Dùng cho phiên bản 1.8.9 cùng với optifine để pvp
 [![Download bản mới nhất](https://i.imgur.com/nE62G4J.png)](https://github.com/babeoban/Canhdi-PVP-rsp/releases)
 Khuyến nghị: Dùng với optifine hoặc với pvp client!
-### Youtube: https://youtube.com/c/canhvjp
+### Youtube: [Canhvjp](https://youtube.com/c/canhvjp)
 
 ## Update
-RSP v3.5.0 (đã hoàn thiện)
+RSP v4.0.0 (đã hoàn thiện)
 
 ## Thông tin về project
 - Đây là resource pack dùng để PVP
@@ -16,5 +16,5 @@ RSP v3.5.0 (đã hoàn thiện)
 - Vào minecraft -> options -> resource pack -> active canhdi resource pack
 
 ## Liên hệ
-- Discord: https://discord.gg/5FDSRCYcyq
-- Đóng góp / Báo lỗi: https://github.com/babeoban/Canhdi-PVP-rsp/issues/new
+- Discord: [Join](https://discord.gg/5FDSRCYcyq)
+- Đóng góp / Báo lỗi: [Click](https://github.com/babeoban/Canhdi-PVP-rsp/issues/new)
