@@ -2,6 +2,7 @@
 
 ### Dùng cho phiên bản 1.8.9 cùng với optifine để pvp
 [![Download bản mới nhất](https://i.imgur.com/nE62G4J.png)](https://github.com/babeoban/Canhdi-PVP-rsp/releases)
+
 Khuyến nghị: Dùng với optifine hoặc với pvp client!
 ### Youtube: [Canhvjp](https://youtube.com/c/canhvjp)
 
