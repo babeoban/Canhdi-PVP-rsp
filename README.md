@@ -7,7 +7,7 @@ Khuyến nghị: Dùng với optifine hoặc với pvp client!
 ### Youtube: [Canhvjp](https://youtube.com/c/canhvjp)
 
 ## Update
-RSP v4.0.0 (đã hoàn thiện)
+RSP v5.0.0 (cần chỉnh thêm vài màu)
 
 ## Thông tin về project
 - Đây là resource pack dùng để PVP
@@ -19,3 +19,6 @@ RSP v4.0.0 (đã hoàn thiện)
 ## Liên hệ
 - Discord: [Join](https://discord.gg/5FDSRCYcyq)
 - Đóng góp / Báo lỗi: [Click](https://github.com/babeoban/Canhdi-PVP-rsp/issues/new)
+
+## Đóng góp
+- @Woodnameless (Bridge update)
